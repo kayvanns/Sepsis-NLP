@@ -1,0 +1,9 @@
+scispacy
+spacy
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scipy
+jupyterlab
