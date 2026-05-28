@@ -3,3 +3,4 @@ data/cohort/
 data/processed/
 *.csv
 *.parquet
+.venv/

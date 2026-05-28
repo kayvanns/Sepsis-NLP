@@ -1,0 +1,22 @@
+[project]
+name = "sepsis-nlp"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "datasets>=4.8.5",
+    "jupyterlab>=4.5.7",
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.1",
+    "scispacy>=0.5.5",
+    "seaborn>=0.13.2",
+    "spacy>=3.7.5",
+    "statsmodels>=0.14.6",
+    "tokenizers>=0.22.2",
+    "torch>=2.12.0",
+    "torchvision>=0.27.0",
+    "transformers>=5.9.0",
+]
